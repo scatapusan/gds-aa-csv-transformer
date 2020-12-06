@@ -1,0 +1,256 @@
+country,udp_country,adobe_analytics_country,iso3,alpha2_code,area,area_description
+Andorra,Andorra,andorra,AND,AD,WE,Western Europe
+Austria,Austria,austria,AUT,AT,WE,Western Europe
+Azerbaijan,Azerbaijan,azerbaijan,AZE,AZ,PACT,PACT
+Belize,Belize,belize,BLZ,BZ,LAC,Latin America and Carribean
+Cayman Islands (the),Cayman Islands,cayman islands,CYM,KY,LAC,Latin America and Carribean
+Congo (the Democratic Republic of the),"Congo, The Democratic Republic Of The",democratic republic of the congo,COD,CD,FF,Francophone Africa
+Denmark,Denmark,denmark,DNK,DK,WE,Western Europe
+Japan,Japan,japan,JPN,JP,EAOR,East Asia Orient
+Jordan,Jordan,jordan,JOR,JO,NAME,NAME
+Mali,Mali,mali,MLI,ML,FF,Francophone Africa
+Marshall Islands (the),Marshall Islands,marshall islands,MHL,MH,NAOC,North America and Oceania
+Mayotte,Mayotte,mayotte,MYT,YT,SEA,Southern and Eastern Africa
+Norway,Norway,norway,NOR,NO,WE,Western Europe
+Senegal,Senegal,senegal,SEN,SN,FF,Francophone Africa
+Argentina,Argentina,argentina,ARG,AR,LAC,Latin America and Carribean
+Botswana,Botswana,botswana,BWA,BW,SEA,Southern and Eastern Africa
+Bulgaria,Bulgaria,bulgaria,BGR,BG,CEE,Central and Eastern Europe
+Central African Republic (the),Central African Republic,central african republic,CAF,CF,FF,Francophone Africa
+Djibouti,Djibouti,djibouti,DJI,DJ,SEA,Southern and Eastern Africa
+Falkland Islands (the) [Malvinas],Falkland Islands  (Malvinas),falkland islands (malvinas),FLK,FK,LAC,Latin America and Carribean
+Holy See (the),Holy See (Vatican City State),holy see (vatican city state),VAT,VA,WE,Western Europe
+Paraguay,Paraguay,paraguay,PRY,PY,LAC,Latin America and Carribean
+Saint Lucia,Saint Lucia,saint lucia,LCA,LC,LAC,Latin America and Carribean
+Samoa,Samoa,samoa,WSM,WS,NAOC,North America and Oceania
+Suriname,Suriname,suriname,SUR,SR,LAC,Latin America and Carribean
+Zambia,Zambia,zambia,ZMB,ZM,SEA,Southern and Eastern Africa
+British Indian Ocean Territory (the),,british indian ocean territory,IOT,IO,QQQ,Unknown
+Global,Global,global,GGG,GO,GGG,Global
+Anguilla,Anguilla,anguilla,AIA,AI,LAC,Latin America and Carribean
+Antarctica,Antarctica,antarctica,ATA,AQ,QQQ,Unknown
+Belgium,Belgium,belgium,BEL,BE,WE,Western Europe
+Finland,Finland,finland,FIN,FI,WE,Western Europe
+Guinea-Bissau,Guinea-Bissau,guinea-bissau,GNB,GW,WA,West Africa
+Jamaica,Jamaica,jamaica,JAM,JM,LAC,Latin America and Carribean
+Libya,Libyan Arab Jamahiriya,libyan arab jamahiriya,LBY,LY,NAME,NAME
+Lithuania,Lithuania,lithuania,LTU,LT,WE,Western Europe
+Mauritania,Mauritania,mauritania,MRT,MR,NAME,NAME
+Mexico,Mexico,mexico,MEX,MX,LAC,Latin America and Carribean
+Serbia,Serbia,serbia,SRB,RS,CEE,Central and Eastern Europe
+Solomon Islands,Solomon Islands,solomon islands,SLB,SB,NAOC,North America and Oceania
+Tunisia,Tunisia,tunisia,TUN,TN,NAME,NAME
+,,asia (unknown country),NU1,,QQQ,Unknown
+Bangladesh,Bangladesh,bangladesh,BGD,BD,SA,South Asia
+Bolivia (Plurinational State of),"Bolivia, Plurinational State Of",bolivia,BOL,BO,LAC,Latin America and Carribean
+Canada,Canada,canada,CAN,CA,NAOC,North America and Oceania
+Cyprus,Cyprus,cyprus,CYP,CY,WE,Western Europe
+El Salvador,El Salvador,el salvador,SLV,SV,LAC,Latin America and Carribean
+France,France,france,FRA,FR,WE,Western Europe
+Korea (the Republic of),"Korea, Republic of",south korea,KOR,KR,EAOR,East Asia Orient
+Lao People's Democratic Republic (the),Lao People's Democratic Republic,lao peoples democratic republic,LAO,LA,ASEA,Southeast Asia
+Micronesia (Federated States of),"Micronesia, Federated States Of",federated states of micronesia,FSM,FM,NAOC,North America and Oceania
+Niger (the),Niger,niger,NER,NE,FF,Francophone Africa
+Seychelles,Seychelles,seychelles,SYC,SC,SEA,Southern and Eastern Africa
+Sri Lanka,Sri Lanka,sri lanka,LKA,LK,SA,South Asia
+Timor-Leste,Timor-Leste,timor-leste,TLS,TL,ASEA,Southeast Asia
+Turks and Caicos Islands (the),Turks and Caicos Islands,turks and caicos islands,TCA,TC,LAC,Latin America and Carribean
+United States of America (the),United States,united states,USA,US,NAOC,North America and Oceania
+Vanuatu,Vanuatu,vanuatu,VUT,VU,NAOC,North America and Oceania
+Armenia,Armenia,armenia,ARM,AM,PACT,PACT
+Brazil,Brazil,brazil,BRA,BR,LAC,Latin America and Carribean
+Mauritius,Mauritius,mauritius,MUS,MU,SEA,Southern and Eastern Africa
+Pitcairn,Pitcairn,pitcairn,PCN,PN,NAOC,North America and Oceania
+Rwanda,Rwanda,rwanda,RWA,RW,SEA,Southern and Eastern Africa
+Saint Kitts and Nevis,Saint Kitts And Nevis,saint kitts and nevis,KNA,KN,LAC,Latin America and Carribean
+Svalbard and Jan Mayen,Svalbard And Jan Mayen,svalbard and jan mayen islands,SJM,SJ,WE,Western Europe
+Venezuela (Bolivarian Republic of),"Venezuela, Bolivarian Republic of",venezuela,VEN,VE,LAC,Latin America and Carribean
+Åland Islands,Åland Islands,aland islands,ALA,AX,WE,Western Europe
+Algeria,Algeria,algeria,DZA,DZ,NAME,NAME
+Bahrain,Bahrain,bahrain,BHR,BH,NAME,NAME
+Benin,Benin,benin,BEN,BJ,FF,Francophone Africa
+Cameroon,Cameroon,cameroon,CMR,CM,FF,Francophone Africa
+Cocos (Keeling) Islands (the),Cocos (Keeling) Islands,cocos (keeling) islands,CCK,CC,NAOC,North America and Oceania
+Cook Islands (the),Cook Islands,cook islands,COK,CK,NAOC,North America and Oceania
+Curaçao,Curaçao,curacao,CUW,CW,LAC,Latin America and Carribean
+Heard Island and McDonald Islands,Heard and McDonald Islands,heard and mc donald islands,HMD,HM,NAOC,North America and Oceania
+Kyrgyzstan,Kyrgyzstan,kyrgyzstan,KGZ,KG,PACT,PACT
+Macao,Macao,macau sar of china,MAC,MO,EAOP,East Asia Opportunities
+Monaco,Monaco,monaco,MCO,MC,WE,Western Europe
+New Caledonia,New Caledonia,new caledonia,NCL,NC,NAOC,North America and Oceania
+Northern Mariana Islands (the),Northern Mariana Islands,northern mariana islands,MNP,MP,NAOC,North America and Oceania
+Pakistan,Pakistan,pakistan,PAK,PK,EAOR,East Asia Orient
+Saint Martin (French part),Saint Martin,saint martin,MAF,MF,LAC,Latin America and Carribean
+Sierra Leone,Sierra Leone,sierra leone,SLE,SL,WA,West Africa
+"Tanzania, United Republic of","Tanzania, United Republic of",tanzania,TZA,TZ,SEA,Southern and Eastern Africa
+Ukraine,Ukraine,ukraine,UKR,UA,CEE,Central and Eastern Europe
+Western Sahara,Western Sahara,western sahara,ESH,EH,NAME,NAME
+,,unknown,NU3,,QQQ,Unknown
+Eritrea,Eritrea,eritrea,ERI,ER,SEA,Southern and Eastern Africa
+Georgia,Georgia,georgia,GEO,GE,CEE,Central and Eastern Europe
+Ghana,Ghana,ghana,GHA,GH,WA,West Africa
+Grenada,Grenada,grenada,GRD,GD,LAC,Latin America and Carribean
+Guadeloupe,Guadeloupe,guadeloupe,GLP,GP,LAC,Latin America and Carribean
+Guam,Guam,guam,GUM,GU,NAOC,North America and Oceania
+Haiti,Haiti,haiti,HTI,HT,LAC,Latin America and Carribean
+Iceland,Iceland,iceland,ISL,IS,WE,Western Europe
+Iran (Islamic Republic of),"Iran, Islamic Republic Of",iran (islamic republic of),IRN,IR,PACT,PACT
+Kiribati,Kiribati,kiribati,KIR,KI,NAOC,North America and Oceania
+Malaysia,Malaysia,malaysia,MYS,MY,ASEA,Southeast Asia
+Saint Pierre and Miquelon,Saint Pierre And Miquelon,st. pierre and miquelon,SPM,PM,NAOC,North America and Oceania
+Somalia,Somalia,somalia,SOM,SO,SEA,Southern and Eastern Africa
+South Sudan,South Sudan,south sudan,SSD,SS,SEA,Southern and Eastern Africa
+Switzerland,Switzerland,switzerland,CHE,CH,WE,Western Europe
+Tuvalu,Tuvalu,tuvalu,TUV,TV,NAOC,North America and Oceania
+Bouvet Island,Bouvet Island,bouvet island,BVT,BV,WE,Western Europe
+Burundi,Burundi,burundi,BDI,BI,FF,Francophone Africa
+Chad,Chad,chad,TCD,TD,FF,Francophone Africa
+Estonia,Estonia,estonia,EST,EE,WE,Western Europe
+Germany,Germany,germany,DEU,DE,WE,Western Europe
+Gibraltar,Gibraltar,gibraltar,GIB,GI,WE,Western Europe
+Greece,Greece,greece,GRC,GR,WE,Western Europe
+Israel,Israel,israel,ISR,IL,WE,Western Europe
+Madagascar,Madagascar,madagascar,MDG,MG,SEA,Southern and Eastern Africa
+Malawi,Malawi,malawi,MWI,MW,SEA,Southern and Eastern Africa
+Nauru,Nauru,nauru,NRU,NR,NAOC,North America and Oceania
+Netherlands (the),Netherlands,netherlands,NLD,NL,WE,Western Europe
+Norfolk Island,Norfolk Island,norfolk island,NFK,NF,NAOC,North America and Oceania
+Palau,Palau,palau,PLW,PW,NAOC,North America and Oceania
+Poland,Poland,poland,POL,PL,CEE,Central and Eastern Europe
+Puerto Rico,Puerto Rico,puerto rico,PRI,PR,LAC,Latin America and Carribean
+Turkey,Turkey,turkey,TUR,TR,PACT,PACT
+Turkmenistan,Turkmenistan,turkmenistan,TKM,TM,PACT,PACT
+United Arab Emirates (the),United Arab Emirates,united arab emirates,ARE,AE,NAME,NAME
+United Kingdom of Great Britain and Northern Ireland (the),United Kingdom,united kingdom,GBR,GB,WE,Western Europe
+Zimbabwe,Zimbabwe,zimbabwe,ZWE,ZW,SEA,Southern and Eastern Africa
+Angola,Angola,angola,AGO,AO,FF,Francophone Africa
+Australia,Australia,australia,AUS,AU,NAOC,North America and Oceania
+Bosnia and Herzegovina,Bosnia and Herzegovina,bosnia and herzegovina,BIH,BA,CEE,Central and Eastern Europe
+Christmas Island,Christmas Island,christmas island,CXR,CX,NAOC,North America and Oceania
+Comoros (the),Comoros,comoros,COM,KM,SEA,Southern and Eastern Africa
+Costa Rica,Costa Rica,costa rica,CRI,CR,LAC,Latin America and Carribean
+Croatia,Croatia,croatia,HRV,HR,CEE,Central and Eastern Europe
+Cuba,Cuba,cuba,CUB,CU,LAC,Latin America and Carribean
+Equatorial Guinea,Equatorial Guinea,equatorial guinea,GNQ,GQ,WA,West Africa
+French Polynesia,French Polynesia,french polynesia,PYF,PF,NAOC,North America and Oceania
+Gambia (the),Gambia,gambia,GMB,GM,WA,West Africa
+Kenya,Kenya,kenya,KEN,KE,SEA,Southern and Eastern Africa
+Kuwait,Kuwait,kuwait,KWT,KW,NAME,NAME
+Luxembourg,Luxembourg,luxembourg,LUX,LU,WE,Western Europe
+Morocco,Morocco,morocco,MAR,MA,NAME,NAME
+"Palestine, State of","Palestinian Territory, Occupied",palestinian territories,PSE,PS,NAME,NAME
+Saint Barthélemy,Saint Barthélemy,saint barthelemy,BLM,BL,LAC,Latin America and Carribean
+South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,south georgia / south sandwich isl,SGS,GS,LAC,Latin America and Carribean
+United States Minor Outlying Islands (the),United States Minor Outlying Islands,us minor outlying islands,UMI,UM,NAOC,North America and Oceania
+Virgin Islands (U.S.),"Virgin Islands, U.S.",us virgin islands,VIR,VI,LAC,Latin America and Carribean
+Antigua and Barbuda,Antigua and Barbuda,antigua and barbuda,ATG,AG,LAC,Latin America and Carribean
+Bahamas (the),Bahamas,bahamas,BHS,BS,LAC,Latin America and Carribean
+Barbados,Barbados,barbados,BRB,BB,LAC,Latin America and Carribean
+Bhutan,Bhutan,bhutan,BTN,BT,SA,South Asia
+Brunei Darussalam,Brunei Darussalam,brunei darussalam,BRN,BN,ASEA,Southeast Asia
+Guatemala,Guatemala,guatemala,GTM,GT,LAC,Latin America and Carribean
+Guyana,Guyana,guyana,GUY,GY,LAC,Latin America and Carribean
+Iraq,Iraq,iraq,IRQ,IQ,NAME,NAME
+Latvia,Latvia,latvia,LVA,LV,WE,Western Europe
+Republic of North Macedonia,"Macedonia, the Former Yugoslav Republic Of",macedonia,MKD,MK,CEE,Central and Eastern Europe
+Malta,Malta,malta,MLT,MT,WE,Western Europe
+Mongolia,Mongolia,mongolia,MNG,MN,EAOR,East Asia Orient
+Nigeria,Nigeria,nigeria,NGA,NG,WA,West Africa
+Romania,Romania,romania,ROU,RO,CEE,Central and Eastern Europe
+Sao Tome and Principe,Sao Tome and Principe,sao tome and principe,STP,ST,WA,West Africa
+Sint Maarten (Dutch part),Sint Maarten (Dutch part),sint maarten,SXM,SX,LAC,Latin America and Carribean
+South Africa,South Africa,south africa,ZAF,ZA,SEA,Southern and Eastern Africa
+Sudan (the),Sudan,sudan,SDN,SD,NAME,NAME
+Trinidad and Tobago,Trinidad and Tobago,trinidad and tobago,TTO,TT,LAC,Latin America and Carribean
+Aruba,Aruba,aruba,ABW,AW,LAC,Latin America and Carribean
+Burkina Faso,Burkina Faso,burkina faso,BFA,BF,FF,Francophone Africa
+China,China,china,CHN,CN,EAOP,East Asia Opportunities
+Congo (the),Congo,congo,COG,CG,FF,Francophone Africa
+Egypt,Egypt,egypt,EGY,EG,NAME,NAME
+French Guiana,French Guiana,french guiana,GUF,GF,LAC,Latin America and Carribean
+French Southern Territories (the),French Southern Territories,french southern territories,ATF,TF,WE,Western Europe
+Korea (the Democratic People's Republic of),"Korea, Democratic People's Republic Of",korea north,PRK,KP,EAOR,East Asia Orient
+Mozambique,Mozambique,mozambique,MOZ,MZ,SEA,Southern and Eastern Africa
+,Netherlands Antilles,netherlands antilles,ANT,,LAC,Latin America and Carribean
+Nicaragua,Nicaragua,nicaragua,NIC,NI,LAC,Latin America and Carribean
+Panama,Panama,panama,PAN,PA,LAC,Latin America and Carribean
+Saint Vincent and the Grenadines,Saint Vincent And The Grenedines,saint vincent and the grenadines,VCT,VC,LAC,Latin America and Carribean
+Saudi Arabia,Saudi Arabia,saudi arabia,SAU,SA,NAME,NAME
+Singapore,Singapore,singapore,SGP,SG,EAOR,East Asia Orient
+Slovenia,Slovenia,slovenia,SVN,SI,CEE,Central and Eastern Europe
+Sweden,Sweden,sweden,SWE,SE,WE,Western Europe
+Taiwan (Province of China),"Taiwan, Province Of China",taiwan region,TWN,TW,EAOR,East Asia Orient
+Tokelau,Tokelau,tokelau,TKL,TK,NAOC,North America and Oceania
+Uzbekistan,Uzbekistan,uzbekistan,UZB,UZ,PACT,PACT
+Viet Nam,Viet Nam,viet nam,VNM,VN,ASEA,Southeast Asia
+American Samoa,American Samoa,american samoa,ASM,AS,NAOC,North America and Oceania
+Belarus,Belarus,belarus,BLR,BY,CEE,Central and Eastern Europe
+"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",bonaire/sint eustatius/saba,BES,BQ,LAC,Latin America and Carribean
+Cabo Verde,Cape Verde,cape verde,CPV,CV,WA,West Africa
+Côte d'Ivoire,Côte D'Ivoire,cote d ivoire,CIV,CI,FF,Francophone Africa
+Ethiopia,Ethiopia,ethiopia,ETH,ET,SEA,Southern and Eastern Africa
+Gabon,Gabon,gabon,GAB,GA,FF,Francophone Africa
+Guinea,Guinea,guinea,GIN,GN,FF,Francophone Africa
+Ireland,Ireland,ireland,IRL,IE,WE,Western Europe
+Lebanon,Lebanon,lebanon,LBN,LB,NAME,NAME
+Lesotho,Lesotho,lesotho,LSO,LS,SEA,Southern and Eastern Africa
+Liberia,Liberia,liberia,LBR,LR,WA,West Africa
+Maldives,Maldives,maldives,MDV,MV,SA,South Asia
+Martinique,Martinique,martinique,MTQ,MQ,LAC,Latin America and Carribean
+Niue,Niue,niue,NIU,NU,NAOC,North America and Oceania
+Philippines (the),Philippines,philippines,PHL,PH,ASEA,Southeast Asia
+Réunion,Réunion,reunion,REU,RE,SEA,Southern and Eastern Africa
+San Marino,San Marino,san marino,SMR,SM,WE,Western Europe
+Spain,Spain,spain,ESP,ES,WE,Western Europe
+Eswatini,Swaziland,swaziland,SWZ,SZ,SEA,Southern and Eastern Africa
+Tonga,Tonga,tonga,TON,TO,NAOC,North America and Oceania
+Yemen,Yemen,yemen,YEM,YE,NAME,NAME
+Czechia,Czech Republic,czech republic,CZE,CZ,CEE,Central and Eastern Europe
+India,India,india,IND,IN,SA,South Asia
+Indonesia,Indonesia,indonesia,IDN,ID,ASEA,Southeast Asia
+Kazakhstan,Kazakhstan,kazakhstan,KAZ,KZ,PACT,PACT
+Namibia,Namibia,namibia,NAM,NA,SEA,Southern and Eastern Africa
+Slovakia,Slovakia,slovakia (slovak republic),SVK,SK,CEE,Central and Eastern Europe
+Togo,Togo,togo,TGO,TG,FF,Francophone Africa
+Uganda,Uganda,uganda,UGA,UG,SEA,Southern and Eastern Africa
+Uruguay,Uruguay,uruguay,URY,UY,LAC,Latin America and Carribean
+Chile,Chile,chile,CHL,CL,LAC,Latin America and Carribean
+Dominica,Dominica,dominica,DMA,DM,LAC,Latin America and Carribean
+Dominican Republic (the),Dominican Republic,dominican republic,DOM,DO,LAC,Latin America and Carribean
+Ecuador,Ecuador,ecuador,ECU,EC,LAC,Latin America and Carribean
+Faroe Islands (the),Faroe Islands,faroe islands,FRO,FO,WE,Western Europe
+Fiji,Fiji,fiji,FJI,FJ,NAOC,North America and Oceania
+Guernsey,Guernsey,guernsey,GGY,GG,WE,Western Europe
+Italy,Italy,italy,ITA,IT,WE,Western Europe
+Liechtenstein,Liechtenstein,liechtenstein,LIE,LI,WE,Western Europe
+Myanmar,Myanmar,myanmar,MMR,MM,ASEA,Southeast Asia
+Papua New Guinea,Papua New Guinea,papua new guinea,PNG,PG,NAOC,North America and Oceania
+Qatar,Qatar,qatar,QAT,QA,NAME,NAME
+Thailand,Thailand,thailand,THA,TH,ASEA,Southeast Asia
+Wallis and Futuna,Wallis and Futuna,wallis and futuna islands,WLF,WF,NAOC,North America and Oceania
+Colombia,Colombia,colombia,COL,CO,LAC,Latin America and Carribean
+Greenland,Greenland,greenland,GRL,GL,WE,Western Europe
+Honduras,Honduras,honduras,HND,HN,LAC,Latin America and Carribean
+Hong Kong,Hong Kong,hong kong sar of china,HKG,HK,EAOP,East Asia Opportunities
+Hungary,Hungary,hungary,HUN,HU,CEE,Central and Eastern Europe
+Jersey,Jersey,jersey,JEY,JE,WE,Western Europe
+New Zealand,New Zealand,new zealand,NZL,NZ,NAOC,North America and Oceania
+Oman,Oman,oman,OMN,OM,NAME,NAME
+Peru,Peru,peru,PER,PE,LAC,Latin America and Carribean
+Portugal,Portugal,portugal,PRT,PT,WE,Western Europe
+Virgin Islands (British),"Virgin Islands, British",british virgin islands,VGB,VG,LAC,Latin America and Carribean
+,,europe (unknown country),NU2,,QQQ,Unknown
+Afghanistan,Afghanistan,afghanistan,AFG,AF,PACT,PACT
+Albania,Albania,albania,ALB,AL,CEE,Central and Eastern Europe
+Bermuda,Bermuda,bermuda,BMU,BM,LAC,Latin America and Carribean
+Cambodia,Cambodia,cambodia,KHM,KH,ASEA,Southeast Asia
+Isle of Man,Isle of Man,isle of man,IMN,IM,WE,Western Europe
+Moldova (the Republic of),"Moldova, Republic of",moldova,MDA,MD,CEE,Central and Eastern Europe
+Montenegro,Montenegro,montenegro,MNE,ME,CEE,Central and Eastern Europe
+Montserrat,Montserrat,montserrat,MSR,MS,LAC,Latin America and Carribean
+Nepal,Nepal,nepal,NPL,NP,SA,South Asia
+Russian Federation (the),Russian Federation,russian federation,RUS,RU,CEE,Central and Eastern Europe
+"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan Da Cunha",st. helena,SHN,SH,WA,West Africa
+Syrian Arab Republic,Syrian Arab Republic,syrian arab republic,SYR,SY,NAME,NAME
+Tajikistan,Tajikistan,tajikistan,TJK,TJ,PACT,PACT
+North Korea,North Korea,north korea,PRK,KP,EAOR,East Asia Orient
