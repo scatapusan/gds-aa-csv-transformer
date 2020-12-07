@@ -16,7 +16,7 @@ record_id,activitywindow_date_id,source_id,country,value,isOriginal,team_id
 ,559,87,RUS,0,1,
 ,559,87,SGP,0,1,
 ,559,87,UGA,1,1,
-,559,87,USA,9,1,
+,559,87,USA,10,1,
 ,559,87,GGG,0,1,8.0
 ,1456,87,AUS,0,1,
 ,1456,87,CAN,0,1,
@@ -35,14 +35,14 @@ record_id,activitywindow_date_id,source_id,country,value,isOriginal,team_id
 ,1456,87,RUS,1,1,
 ,1456,87,SGP,0,1,
 ,1456,87,UGA,1,1,
-,1456,87,USA,12,1,
+,1456,87,USA,14,1,
 ,1456,87,GGG,1,1,8.0
 ,2353,87,AUS,1,1,
 ,2353,87,CAN,1,1,
 ,2353,87,EGY,1,1,
 ,2353,87,ETH,1,1,
-,2353,87,FRA,1,1,
-,2353,87,GGG,13,1,6.0
+,2353,87,FRA,2,1,
+,2353,87,GGG,12,1,6.0
 ,2353,87,IND,1,1,
 ,2353,87,GGG,9,1,7.0
 ,2353,87,LVA,1,1,
@@ -52,7 +52,7 @@ record_id,activitywindow_date_id,source_id,country,value,isOriginal,team_id
 ,2353,87,PAN,2,1,
 ,2353,87,ROU,1,1,
 ,2353,87,RUS,2,1,
-,2353,87,SGP,2,1,
+,2353,87,SGP,3,1,
 ,2353,87,UGA,1,1,
-,2353,87,USA,33,1,
+,2353,87,USA,36,1,
 ,2353,87,GGG,3,1,8.0
