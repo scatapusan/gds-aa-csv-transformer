@@ -1,0 +1,198 @@
+﻿#=================================================================
+# EveryStudent Email Signups
+# Report Suite: Every Student - Production
+"# Date: Dec 21, 2019 - Dec 19, 2020"
+#=================================================================
+
+
+##############################################
+# Signups by country
+##############################################
+,Email Signups (E.S.),Email Signups (E.S.),Email Signups (E.S.),Email Signups (E.S.)
+,Last FULL 7 days (-2),Last FULL 30 days (-2),Last FULL 90 days (-2),Last FULL 365 days (-2)
+,Unique Visitors,Unique Visitors,Unique Visitors,Unique Visitors
+Countries,945,3336,11747,107806
+Brazil,666,2188,6906,53058
+Colombia,7,25,368,7804
+Mexico,18,38,344,7281
+United States,32,150,512,4708
+Venezuela,15,32,416,3693
+Peru,6,8,107,3247
+Ecuador,3,8,166,3031
+Angola,23,114,397,2622
+Nigeria,10,31,116,1701
+Mozambique,13,54,205,1357
+Chile,1,9,62,1247
+Guatemala,1,4,90,1160
+Egypt,14,49,113,898
+Russian Federation,15,51,216,892
+United Kingdom,5,20,73,717
+Honduras,0,1,51,704
+Costa Rica,3,3,46,671
+Morocco,3,24,43,615
+Panama,0,1,27,601
+Portugal,4,25,52,598
+Cote D Ivoire,5,22,82,535
+South Africa,5,9,24,515
+Democratic Republic of The Congo,4,41,93,487
+Cameroon,1,12,61,470
+Algeria,13,31,58,435
+Nicaragua,1,3,31,433
+France,1,16,43,425
+Canada,4,15,53,396
+Benin,2,22,57,357
+Uganda,3,7,22,329
+Ghana,1,2,16,324
+Puerto Rico,0,1,14,293
+Yemen,14,52,95,286
+Lebanon,6,22,51,253
+Kenya,1,3,16,238
+Papua New Guinea,1,1,4,238
+Germany,3,9,29,222
+Spain,0,0,9,217
+Jordan,3,10,27,205
+Argentina,0,4,12,205
+Gabon,0,3,23,184
+Ethiopia,0,0,13,183
+Zambia,1,1,5,179
+Australia,1,10,23,170
+Haiti,2,16,48,156
+Cape Verde,2,7,20,149
+Madagascar,1,17,31,149
+Ukraine,4,13,41,139
+Botswana,0,1,4,139
+Congo,2,7,19,131
+India,1,1,11,127
+Philippines,4,6,22,122
+Togo,2,17,37,116
+Burkina Faso,0,4,17,115
+Pakistan,0,3,7,107
+Equatorial Guinea,1,1,11,104
+Zimbabwe,0,1,2,97
+Switzerland,0,5,13,91
+Senegal,1,4,17,85
+Tunisia,0,7,13,85
+Belgium,1,4,11,77
+Burundi,0,5,13,73
+Uruguay,0,0,1,72
+Iraq,2,8,13,69
+Belarus,0,6,23,68
+Japan,1,8,18,64
+Italy,0,2,8,64
+New Zealand,1,3,6,61
+Netherlands,0,3,10,53
+Malawi,0,0,2,52
+Guinea,0,5,20,50
+Chad,0,3,11,50
+Swaziland,0,0,2,46
+Paraguay,1,3,7,43
+Ireland,1,2,3,42
+Central African Republic,0,4,9,39
+Liberia,0,0,1,39
+Mali,1,5,11,37
+Luxembourg,0,3,7,37
+Singapore,0,1,5,37
+Dominican Republic,0,0,4,34
+Cuba,0,0,1,30
+Namibia,0,0,1,27
+Rwanda,0,2,7,26
+Austria,0,0,0,26
+El Salvador,0,0,4,23
+Trinidad and Tobago,0,0,0,20
+Sweden,0,3,4,19
+Turkey,0,1,4,19
+Bolivia,0,0,0,19
+Malaysia,1,3,3,18
+Curacao,0,0,2,18
+Indonesia,0,0,1,18
+Sao Tome and Principe,1,2,4,17
+Antigua and Barbuda,0,0,0,15
+Guinea-Bissau,0,0,4,14
+Moldova,0,1,4,13
+Hong Kong SAR of China,1,2,3,11
+Norway,0,1,1,11
+Saint Lucia,0,0,0,11
+Sudan,1,4,4,9
+Mauritius,0,1,4,9
+Romania,0,1,2,9
+South Korea,0,0,3,9
+China,0,0,0,9
+Kuwait,1,1,1,8
+Finland,0,0,2,8
+Israel,0,0,1,8
+Czech Republic,0,0,0,8
+Fiji,1,1,1,7
+French Guiana,0,1,2,7
+Tanzania,0,1,1,7
+Vanuatu,1,1,2,6
+Guyana,0,0,1,6
+United Arab Emirates,0,0,0,6
+Saudi Arabia,0,0,0,6
+Bahamas,0,0,0,6
+Aruba,0,0,0,6
+Hungary,0,0,0,6
+Qatar,0,0,0,6
+Bulgaria,0,0,0,6
+Poland,0,0,0,6
+Kazakhstan,0,2,2,5
+Martinique,0,0,1,5
+Serbia,0,0,0,5
+Georgia,0,0,0,5
+Jamaica,0,0,0,5
+Denmark,0,0,0,5
+Guam,0,0,0,5
+Lesotho,0,0,0,5
+Sierra Leone,0,0,0,5
+Syrian Arab Republic,1,1,1,4
+Oman,0,1,2,4
+Croatia,0,0,1,4
+Slovakia (Slovak Republic),0,0,1,4
+Niger,0,0,0,4
+South Sudan,0,0,0,4
+Barbados,0,0,0,4
+Seychelles,0,0,0,4
+Grenada,0,0,0,4
+Latvia,0,0,0,4
+Nepal,0,0,1,3
+Sri Lanka,0,0,1,3
+Viet Nam,0,0,0,3
+Bahrain,0,0,0,3
+Taiwan region,0,0,0,3
+Belize,0,0,0,3
+Lao Peoples Democratic Republic,0,0,0,3
+Anguilla,0,0,0,3
+Timor-Leste,0,0,2,2
+Bangladesh,0,0,2,2
+Greece,0,0,1,2
+Estonia,0,0,1,2
+Libyan Arab Jamahiriya,0,0,0,2
+Thailand,0,0,0,2
+Malta,0,0,0,2
+French Polynesia,0,0,0,2
+Cyprus,0,1,1,1
+Gambia,0,1,1,1
+Samoa,0,0,1,1
+Guadeloupe,0,0,1,1
+Afghanistan,0,0,0,1
+Cayman Islands,0,0,0,1
+Myanmar,0,0,0,1
+Dominica,0,0,0,1
+Mauritania,0,0,0,1
+Djibouti,0,0,0,1
+Comoros,0,0,0,1
+Iceland,0,0,0,1
+Northern Mariana Islands,0,0,0,1
+Somalia,0,0,0,1
+Albania,0,0,0,1
+Bhutan,0,0,0,1
+Kyrgyzstan,0,0,0,1
+Brunei Darussalam,0,0,0,1
+Macedonia,0,0,0,1
+Europe (Unknown Country),0,0,0,1
+Macau SAR of China,0,0,0,1
+Palestinian Territories,0,0,0,1
+Montenegro,0,0,0,1
+Slovenia,0,0,0,1
+Maldives,0,0,0,1
+
+

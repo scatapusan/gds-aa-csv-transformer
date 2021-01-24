@@ -1,0 +1,1016 @@
+﻿#=================================================================
+# Decisions from GodTools and Everystudent
+# Report Suite: Cru Global Report Suite
+"# Date: Dec 23, 2019 - Dec 21, 2020"
+#=================================================================
+
+
+##############################################
+# source 92- LMI - win (Godtools)
+##############################################
+,GodTools App (by ID),GodTools App (by ID),GodTools App (by ID),GodTools App (by ID)
+,LMI - WIN - New Professing Believers,LMI - WIN - New Professing Believers,LMI - WIN - New Professing Believers,LMI - WIN - New Professing Believers
+,Last FULL 365 days (-2),Last FULL 90 days (-2),Last FULL 30 days (-2),Last FULL 7 days (-2)
+Countries,17890,6548,1982,419
+Djibouti,1,0,0,0
+Martinique,1,0,0,0
+Samoa,1,0,0,0
+Saint Vincent and The Grenadines,1,0,0,0
+Bahrain,1,0,0,0
+Iran (Islamic Republic of),1,0,0,0
+Cayman Islands,1,0,0,0
+Armenia,1,0,0,0
+Bonaire/Sint Eustatius/Saba,1,0,0,0
+Libyan Arab Jamahiriya,1,0,0,0
+Guinea-Bissau,1,0,0,0
+Botswana,1,0,0,0
+Niger,1,0,0,0
+Latvia,1,1,0,0
+British Virgin Islands,1,1,0,0
+Serbia,1,1,0,0
+Mongolia,1,1,0,0
+Croatia,2,0,0,0
+Palestinian Territories,2,0,0,0
+Somalia,2,0,0,0
+Malta,2,0,0,0
+Reunion,2,0,0,0
+Curacao,2,0,0,0
+Anguilla,2,0,0,0
+Lesotho,2,0,0,0
+Senegal,2,1,0,0
+Portugal,3,0,0,0
+Slovakia (Slovak Republic),3,1,0,0
+Czech Republic,3,2,0,0
+Uruguay,4,0,0,0
+Sao Tome and Principe,4,0,0,0
+Seychelles,4,0,0,0
+Namibia,4,1,0,0
+Sudan,4,1,0,0
+Belarus,4,1,0,0
+Cambodia,4,1,0,0
+Suriname,4,2,0,0
+Israel,5,0,0,0
+Sri Lanka,5,0,0,0
+Norway,5,0,0,0
+Lithuania,5,1,0,0
+Tonga,5,1,0,0
+Bhutan,5,2,0,0
+Syrian Arab Republic,5,5,0,0
+Chad,6,0,0,0
+Brunei Darussalam,6,0,0,0
+Austria,6,0,0,0
+Burundi,6,0,0,0
+Ireland,6,1,0,0
+Timor-Leste,6,2,0,0
+Burkina Faso,6,3,0,0
+Malawi,7,0,0,0
+Belize,7,1,0,0
+Qatar,8,1,0,0
+Palau,10,0,0,0
+Sweden,10,0,0,0
+Lao Peoples Democratic Republic,10,1,0,0
+Mali,10,3,0,0
+Paraguay,11,0,0,0
+Myanmar,12,4,0,0
+Netherlands,12,5,0,0
+Hungary,13,4,0,0
+Angola,14,5,0,0
+Rwanda,15,2,0,0
+Haiti,16,1,0,0
+Nicaragua,16,6,0,0
+Trinidad and Tobago,18,2,0,0
+Bulgaria,18,2,0,0
+Kyrgyzstan,19,5,0,0
+Bolivia,21,3,0,0
+Kuwait,23,2,0,0
+Papua New Guinea,23,4,0,0
+Zimbabwe,25,5,0,0
+Zambia,46,7,0,0
+Spain,53,3,0,0
+Costa Rica,67,17,0,0
+Grenada,1,1,1,0
+Uzbekistan,1,1,1,1
+Dominica,1,1,1,1
+Iceland,1,1,1,1
+Oman,2,1,1,0
+Cuba,2,2,1,0
+Guinea,3,1,1,0
+Finland,4,1,1,1
+Mozambique,4,2,1,0
+Barbados,5,2,1,0
+Iraq,5,2,1,0
+Central African Republic,5,5,1,0
+Sierra Leone,6,2,1,1
+Albania,7,3,1,1
+Guam,8,1,1,0
+Pakistan,8,2,1,0
+Bangladesh,8,2,1,0
+Belgium,9,1,1,0
+Nepal,10,3,1,0
+Slovenia,11,1,1,0
+Italy,11,2,1,1
+Switzerland,11,3,1,0
+Togo,11,5,1,0
+Turkey,11,9,1,0
+Jamaica,12,5,1,0
+Tunisia,13,4,1,0
+Puerto Rico,16,6,1,0
+Jordan,17,1,1,0
+Taiwan region,18,5,1,0
+El Salvador,26,6,1,0
+Fiji,27,5,1,0
+Mauritius,32,4,1,1
+Honduras,32,5,1,1
+Congo,34,4,1,0
+Germany,61,21,1,0
+Tajikistan,3,2,2,0
+Solomon Islands,6,2,2,0
+Moldova,11,8,2,0
+Dominican Republic,13,2,2,2
+Japan,18,3,2,0
+Guyana,24,8,2,0
+Madagascar,26,4,2,0
+Liberia,29,12,2,0
+Viet Nam,35,5,2,0
+Ukraine,42,7,2,0
+Ethiopia,46,4,2,1
+Greece,4,3,3,0
+Swaziland,6,4,3,0
+Tanzania,10,3,3,1
+Gabon,21,3,3,2
+Algeria,22,7,3,0
+Benin,24,7,3,0
+Poland,35,5,3,0
+Saudi Arabia,40,8,3,1
+Hong Kong SAR of China,41,8,3,0
+Cote D Ivoire,48,9,3,3
+Thailand,94,9,3,1
+Uganda,113,37,3,0
+Kazakhstan,17,7,4,1
+Egypt,23,13,4,1
+Chile,35,7,4,0
+Peru,47,10,4,1
+Panama,59,12,4,2
+Democratic Republic of The Congo,100,16,5,0
+South Korea,127,28,5,0
+Kenya,143,38,5,3
+Gambia,9,8,6,0
+Romania,16,10,6,0
+Lebanon,40,12,7,1
+New Zealand,142,28,7,4
+United Arab Emirates,144,16,7,3
+France,38,14,8,6
+China,59,16,8,2
+Australia,126,32,10,3
+Nigeria,205,53,10,2
+Russian Federation,128,79,11,5
+United Kingdom,138,41,12,1
+South Africa,169,39,14,3
+Canada,153,33,15,2
+Ghana,185,45,16,4
+Brazil,309,41,19,6
+Singapore,297,80,20,4
+India,510,121,20,3
+Cameroon,219,40,25,8
+Ecuador,144,36,26,3
+Malaysia,222,84,48,38
+Guatemala,398,226,60,13
+Philippines,1462,361,105,12
+Argentina,1017,510,164,29
+United States,2808,740,178,76
+Colombia,1330,691,181,37
+Mexico,1658,910,249,62
+Indonesia,2081,833,289,16
+Venezuela,1551,926,333,48
+
+
+##############################################
+# source 93- LMI - win (non-godtools)
+##############################################
+,Non GodTools Decisions,Non GodTools Decisions,Non GodTools Decisions
+,LMI - WIN - New Professing Believers,LMI - WIN - New Professing Believers,LMI - WIN - New Professing Believers
+,Last FULL 90 days (-2),Last FULL 30 days (-2),Last FULL 7 days (-2)
+Countries,35579,8855,1902
+Turkey,9066,1386,237
+Russian Federation,5013,1421,319
+India,4242,863,80
+Poland,2717,511,98
+Hungary,1614,670,163
+Romania,1434,627,147
+Egypt,955,485,161
+Indonesia,850,259,43
+Slovakia (Slovak Republic),792,176,56
+Ukraine,702,213,44
+Germany,601,149,27
+Venezuela,485,41,17
+United States,436,137,32
+Colombia,422,53,17
+Mexico,415,82,47
+Italy,392,119,23
+Bulgaria,334,3,1
+Belarus,313,100,28
+Yemen,245,145,46
+Algeria,244,153,39
+Lebanon,216,97,25
+Ecuador,192,15,6
+Morocco,171,70,20
+Spain,169,51,13
+France,167,47,7
+United Kingdom,162,45,6
+Japan,144,38,2
+Jordan,141,73,16
+Canada,140,45,11
+Peru,138,14,3
+Moldova,127,47,10
+Azerbaijan,126,27,4
+Guatemala,105,0,0
+Tunisia,101,55,24
+Austria,90,25,10
+Greece,89,28,4
+Netherlands,88,20,2
+Iraq,84,43,11
+Serbia,84,37,13
+Cameroon,77,21,1
+Pakistan,68,21,0
+Chile,64,5,1
+Czech Republic,61,13,1
+Honduras,58,0,0
+Cote D Ivoire,55,13,0
+Gabon,53,15,0
+Thailand,52,16,7
+Haiti,49,21,2
+Costa Rica,49,9,5
+Madagascar,46,16,2
+Sweden,46,11,1
+Ethiopia,44,16,3
+Democratic Republic of The Congo,43,26,7
+Slovenia,43,14,4
+Nicaragua,43,1,1
+Nigeria,42,24,12
+Togo,40,23,4
+Viet Nam,40,11,1
+Mali,40,9,1
+Benin,38,14,0
+Burundi,36,12,0
+Croatia,36,10,2
+Panama,30,1,0
+Kenya,29,9,5
+Senegal,29,8,1
+Switzerland,26,10,1
+South Africa,23,7,3
+Belgium,22,5,1
+Malaysia,21,6,1
+South Korea,21,5,3
+Armenia,20,4,0
+Ireland,19,4,0
+Kazakhstan,18,6,0
+Australia,18,5,0
+Rwanda,18,4,0
+Georgia,17,6,1
+Montenegro,16,6,0
+Congo,14,5,1
+Burkina Faso,14,1,0
+Puerto Rico,13,2,0
+Argentina,12,3,1
+Norway,12,3,1
+Nepal,12,0,0
+Denmark,9,4,0
+Albania,9,3,1
+Central African Republic,9,3,0
+Cyprus,9,3,0
+Philippines,9,2,1
+Mongolia,9,1,0
+Kuwait,9,1,0
+Equatorial Guinea,9,0,0
+Singapore,8,6,2
+Chad,8,4,0
+Finland,8,3,2
+Saudi Arabia,8,0,0
+Syrian Arab Republic,7,4,2
+Oman,7,3,0
+Israel,6,3,2
+Ghana,6,2,0
+Uzbekistan,6,1,0
+Bosnia and Herzegovina,6,1,0
+Bangladesh,5,2,2
+Guinea,5,2,0
+Brazil,5,2,0
+Lao Peoples Democratic Republic,5,1,1
+New Zealand,5,0,0
+Uruguay,5,0,0
+Timor-Leste,4,2,0
+Solomon Islands,4,1,0
+Macedonia,4,1,0
+Papua New Guinea,4,0,0
+Myanmar,3,1,1
+Trinidad and Tobago,3,1,1
+Europe (Unknown Country),3,1,0
+Botswana,3,1,0
+Luxembourg,3,0,0
+Bahrain,3,0,0
+El Salvador,3,0,0
+Portugal,2,1,0
+Vanuatu,2,1,0
+Uganda,2,0,0
+Kyrgyzstan,2,0,0
+Iceland,2,0,0
+Latvia,2,0,0
+Sudan,2,0,0
+Estonia,2,0,0
+Zambia,2,0,0
+Dominican Republic,1,1,1
+Lithuania,1,1,0
+Cambodia,1,1,0
+Bonaire/Sint Eustatius/Saba,1,0,0
+Afghanistan,1,0,0
+Bolivia,1,0,0
+Swaziland,1,0,0
+Sri Lanka,1,0,0
+Paraguay,1,0,0
+Malta,1,0,0
+Aland Islands,1,0,0
+Palestinian Territories,1,0,0
+Aruba,1,0,0
+Bahamas,1,0,0
+Zimbabwe,1,0,0
+Liberia,1,0,0
+Hong Kong SAR of China,1,0,0
+United Arab Emirates,1,0,0
+Libyan Arab Jamahiriya,1,0,0
+
+
+##############################################
+"# source 94 - Decisions for Christ (ES- pageview method) "
+##############################################
+,Decisions For Christ (es.com),Decisions For Christ (es.com),Decisions For Christ (es.com),Decisions For Christ (es.com)
+,Last FULL 365 days (-2),Last FULL 90 days (-2),Last FULL 30 days (-2),Last FULL 7 days (-2)
+Countries,414410,73907,18922,4256
+Nigeria,71757,21866,6145,1323
+Turkey,45683,11479,1689,302
+Mexico,29031,996,94,54
+Russian Federation,23064,6148,1656,377
+Poland,20994,2861,576,104
+Colombia,18220,711,70,24
+India,12630,2225,553,56
+Hungary,12550,1649,702,173
+United States,10614,825,248,60
+Indonesia,10423,917,246,42
+Cameroon,9363,2842,800,211
+Egypt,8599,960,459,127
+Peru,8175,201,16,5
+Ethiopia,7384,1500,365,84
+Slovakia (Slovak Republic),7311,771,164,35
+Venezuela,7116,627,49,19
+Cote D Ivoire,6529,1488,428,106
+Democratic Republic of The Congo,6331,995,353,91
+Ecuador,6220,329,18,5
+France,5264,201,67,14
+Uganda,5192,833,129,13
+Chile,4552,176,10,1
+Zambia,3973,826,179,42
+Ghana,3935,657,112,21
+Germany,3764,528,112,21
+Kenya,3309,318,120,31
+Ukraine,3141,807,250,51
+Benin,3083,791,226,61
+Bulgaria,2509,343,4,1
+Guatemala,2340,131,1,1
+Morocco,2305,239,98,27
+United Kingdom,2187,227,67,12
+Burkina Faso,1945,647,289,88
+Canada,1892,203,65,17
+Algeria,1859,285,167,41
+Costa Rica,1844,100,8,4
+Honduras,1710,98,2,0
+Romania,1572,289,124,25
+Belarus,1500,350,102,25
+Guinea,1468,625,161,50
+Lebanon,1445,247,115,32
+Burundi,1377,388,122,53
+Pakistan,1340,179,79,9
+Jordan,1327,164,79,19
+Madagascar,1289,399,142,31
+Spain,1245,31,2,1
+Panama,1224,45,1,0
+Rwanda,1217,716,268,69
+Japan,1165,164,47,3
+Nicaragua,1107,67,1,1
+Malawi,908,55,3,0
+Liberia,830,265,97,22
+Yemen,785,283,162,46
+Mozambique,776,148,29,5
+Puerto Rico,767,28,2,0
+Italy,655,95,21,4
+Niger,631,254,92,21
+Azerbaijan,628,92,29,5
+Netherlands,600,101,24,3
+Belgium,591,30,4,1
+China,563,1,1,1
+South Africa,544,28,7,2
+Argentina,516,13,3,1
+Austria,514,92,28,8
+Tunisia,504,116,61,24
+Greece,497,95,27,6
+Iraq,493,115,54,12
+Mali,487,192,59,18
+Czech Republic,469,58,10,1
+Togo,443,219,94,32
+Gabon,415,55,15,0
+Senegal,405,130,40,14
+Australia,402,39,10,1
+Serbia,383,47,21,7
+Sweden,372,48,8,2
+Thailand,331,60,23,11
+Viet Nam,323,49,15,3
+Papua New Guinea,284,4,0,0
+Switzerland,266,36,13,1
+Congo,207,25,6,2
+Croatia,205,40,8,2
+Slovenia,204,40,15,2
+Moldova,195,49,14,4
+South Korea,195,27,5,3
+Botswana,167,3,1,0
+Malaysia,163,19,4,1
+Uruguay,159,4,0,0
+Equatorial Guinea,156,16,1,1
+Haiti,153,54,22,2
+Ireland,153,15,3,1
+Taiwan region,142,8,0,0
+Chad,132,26,8,1
+Zimbabwe,128,1,0,0
+Georgia,125,22,7,1
+Armenia,122,25,5,1
+New Zealand,119,10,4,1
+Macedonia,114,14,4,1
+Philippines,103,11,2,1
+Singapore,97,9,6,2
+Cyprus,80,14,4,1
+Hong Kong SAR of China,79,5,0,0
+Brazil,77,8,3,1
+Central African Republic,74,13,4,0
+Dominican Republic,72,2,0,0
+Montenegro,70,10,2,0
+Kazakhstan,68,26,7,0
+Norway,65,10,3,1
+Guinea-Bissau,63,16,4,0
+Lao Peoples Democratic Republic,59,3,1,1
+Swaziland,59,1,0,0
+Kuwait,51,8,2,0
+United Arab Emirates,48,6,2,0
+El Salvador,47,4,0,0
+Finland,46,10,5,2
+Sudan,45,30,8,4
+Mongolia,45,13,2,1
+Saudi Arabia,45,9,0,0
+Denmark,44,11,3,0
+Bosnia and Herzegovina,44,5,1,0
+Luxembourg,43,3,1,0
+Saint Lucia,42,0,0,0
+Israel,41,7,3,2
+Latvia,41,3,0,0
+Oman,40,8,3,0
+Nepal,34,8,0,0
+Cuba,34,0,0,0
+Curacao,30,0,0,0
+Bolivia,29,1,0,0
+Estonia,26,2,0,0
+Syrian Arab Republic,25,9,5,1
+Paraguay,25,1,0,0
+Trinidad and Tobago,24,3,1,1
+Kyrgyzstan,24,3,1,0
+Bahrain,22,4,1,0
+Antigua and Barbuda,20,0,0,0
+Timor-Leste,19,3,1,0
+Portugal,19,2,1,0
+Tanzania,19,0,0,0
+Bangladesh,18,0,0,0
+Uzbekistan,17,5,1,0
+Lithuania,17,1,1,0
+Iran (Islamic Republic of),17,0,0,0
+Reunion,15,1,0,0
+Myanmar,14,4,1,1
+Malta,14,1,0,0
+Qatar,14,0,0,0
+Palestinian Territories,13,1,0,0
+Jamaica,13,1,0,0
+Sri Lanka,13,1,0,0
+South Sudan,12,1,1,0
+Grenada,12,0,0,0
+Mauritius,12,0,0,0
+Libyan Arab Jamahiriya,11,3,1,0
+Albania,11,2,1,1
+Tajikistan,11,0,0,0
+Vanuatu,10,3,1,0
+Martinique,10,1,0,0
+Namibia,9,0,0,0
+Sierra Leone,9,0,0,0
+Europe (Unknown Country),8,3,1,0
+Afghanistan,8,2,0,0
+Bahamas,8,1,0,0
+Barbados,7,1,0,0
+Guam,7,0,0,0
+Angola,6,0,0,0
+Lesotho,6,0,0,0
+Iceland,5,4,0,0
+Turkmenistan,5,2,0,0
+Cambodia,5,1,1,0
+Aruba,5,1,0,0
+Guadeloupe,5,0,0,0
+Somalia,5,0,0,0
+Anguilla,5,0,0,0
+Seychelles,4,0,0,0
+Belize,4,0,0,0
+Monaco,4,0,0,0
+Solomon Islands,3,3,1,0
+Guyana,3,0,0,0
+New Caledonia,3,0,0,0
+Fiji,3,0,0,0
+Maldives,3,0,0,0
+Macau SAR of China,2,1,1,1
+Saint Kitts and Nevis,2,0,0,0
+Gambia,2,0,0,0
+Brunei Darussalam,2,0,0,0
+French Guiana,2,0,0,0
+Djibouti,2,0,0,0
+Mauritania,2,0,0,0
+Liechtenstein,2,0,0,0
+Suriname,2,0,0,0
+Bhutan,2,0,0,0
+Bonaire/Sint Eustatius/Saba,1,1,0,0
+Aland Islands,1,1,0,0
+US Virgin Islands,1,0,0,0
+Samoa,1,0,0,0
+Isle of Man,1,0,0,0
+Northern Mariana Islands,1,0,0,0
+Dominica,1,0,0,0
+Cayman Islands,1,0,0,0
+Bermuda,1,0,0,0
+Sint Maarten,1,0,0,0
+Gibraltar,1,0,0,0
+Jersey,1,0,0,0
+
+
+##############################################
+# source 95 - Decisions for Christ (godtools) app-method
+##############################################
+,New Believer (GT),New Believer (GT),New Believer (GT),New Believer (GT)
+,Last FULL 365 days (-2),Last FULL 90 days (-2),Last FULL 30 days (-2),Last FULL 7 days (-2)
+Countries,17905,6549,1982,419
+Venezuela,1552,926,333,48
+Mexico,1658,910,249,62
+Indonesia,2086,833,289,16
+United States,2807,740,178,76
+Colombia,1330,691,181,37
+Argentina,1017,510,164,29
+Philippines,1464,361,105,12
+Guatemala,398,226,60,13
+India,511,121,20,3
+Malaysia,222,84,48,38
+Singapore,297,80,20,4
+Russian Federation,128,79,11,5
+Nigeria,206,54,10,2
+Ghana,185,45,16,4
+Brazil,309,41,19,6
+United Kingdom,138,41,12,1
+Cameroon,219,40,25,8
+South Africa,169,39,14,3
+Kenya,143,38,5,3
+Uganda,114,37,3,0
+Ecuador,144,36,26,3
+Canada,153,33,15,2
+Australia,126,32,10,3
+New Zealand,142,28,7,4
+South Korea,127,28,5,0
+Germany,61,21,1,0
+Costa Rica,67,17,0,0
+United Arab Emirates,144,16,7,3
+Democratic Republic of The Congo,100,16,5,0
+China,60,16,8,2
+France,38,14,8,6
+Egypt,23,13,4,1
+Panama,59,12,4,2
+Lebanon,40,12,7,1
+Liberia,29,12,2,0
+Peru,47,10,4,1
+Romania,16,10,6,0
+Thailand,94,9,3,1
+Cote D Ivoire,48,9,3,3
+Turkey,11,9,1,0
+Hong Kong SAR of China,41,8,3,0
+Saudi Arabia,40,8,3,1
+Guyana,24,8,2,0
+Moldova,11,8,2,0
+Gambia,9,8,6,0
+Zambia,46,7,0,0
+Ukraine,42,7,2,0
+Chile,35,7,4,0
+Benin,24,7,3,0
+Algeria,22,7,3,0
+Kazakhstan,17,7,4,1
+El Salvador,26,6,1,0
+Puerto Rico,16,6,1,0
+Nicaragua,16,6,0,0
+Poland,35,5,3,0
+Viet Nam,35,5,2,0
+Honduras,32,5,1,1
+Fiji,27,5,1,0
+Zimbabwe,25,5,0,0
+Kyrgyzstan,19,5,0,0
+Taiwan region,18,5,1,0
+Angola,14,5,0,0
+Jamaica,12,5,1,0
+Netherlands,12,5,0,0
+Togo,11,5,1,0
+Central African Republic,5,5,1,0
+Syrian Arab Republic,5,5,0,0
+Ethiopia,46,4,2,1
+Congo,34,4,1,0
+Mauritius,32,4,1,1
+Madagascar,26,4,2,0
+Papua New Guinea,23,4,0,0
+Tunisia,13,4,1,0
+Hungary,13,4,0,0
+Myanmar,12,4,0,0
+Swaziland,6,4,3,0
+Spain,53,3,0,0
+Gabon,21,3,3,2
+Bolivia,21,3,0,0
+Japan,18,3,2,0
+Switzerland,11,3,1,0
+Tanzania,10,3,3,1
+Nepal,10,3,1,0
+Mali,10,3,0,0
+Albania,7,3,1,1
+Burkina Faso,6,3,0,0
+Greece,5,3,3,0
+Kuwait,23,2,0,0
+Bulgaria,18,2,0,0
+Trinidad and Tobago,18,2,0,0
+Rwanda,15,2,0,0
+Dominican Republic,13,2,2,2
+Italy,11,2,1,1
+Bangladesh,8,2,1,0
+Pakistan,8,2,1,0
+Solomon Islands,6,2,2,0
+Sierra Leone,6,2,1,1
+Timor-Leste,6,2,0,0
+Iraq,5,2,1,0
+Barbados,5,2,1,0
+Mozambique,5,2,1,0
+Bhutan,5,2,0,0
+Suriname,4,2,0,0
+Tajikistan,3,2,2,0
+Czech Republic,3,2,0,0
+Cuba,2,2,1,0
+Jordan,17,1,1,0
+Haiti,16,1,0,0
+Slovenia,11,1,1,0
+Lao Peoples Democratic Republic,10,1,0,0
+Belgium,9,1,1,0
+Guam,8,1,1,0
+Qatar,8,1,0,0
+Belize,7,1,0,0
+Ireland,6,1,0,0
+Lithuania,5,1,0,0
+Tonga,5,1,0,0
+Finland,4,1,1,1
+Namibia,4,1,0,0
+Cambodia,4,1,0,0
+Belarus,4,1,0,0
+Sudan,4,1,0,0
+Guinea,3,1,1,0
+Slovakia (Slovak Republic),3,1,0,0
+Oman,2,1,1,0
+Senegal,2,1,0,0
+Iceland,1,1,1,1
+Uzbekistan,1,1,1,1
+Dominica,1,1,1,1
+Grenada,1,1,1,0
+British Virgin Islands,1,1,0,0
+Mongolia,1,1,0,0
+Latvia,1,1,0,0
+Serbia,1,1,0,0
+Palau,12,0,0,0
+Paraguay,11,0,0,0
+Sweden,10,0,0,0
+Malawi,7,0,0,0
+Burundi,6,0,0,0
+Chad,6,0,0,0
+Austria,6,0,0,0
+Brunei Darussalam,6,0,0,0
+Sri Lanka,5,0,0,0
+Israel,5,0,0,0
+Norway,5,0,0,0
+Uruguay,4,0,0,0
+Sao Tome and Principe,4,0,0,0
+Seychelles,4,0,0,0
+Portugal,3,0,0,0
+Malta,2,0,0,0
+Somalia,2,0,0,0
+Anguilla,2,0,0,0
+Lesotho,2,0,0,0
+Croatia,2,0,0,0
+Palestinian Territories,2,0,0,0
+Reunion,2,0,0,0
+Curacao,2,0,0,0
+Cayman Islands,1,0,0,0
+Saint Vincent and The Grenadines,1,0,0,0
+Botswana,1,0,0,0
+Martinique,1,0,0,0
+Bonaire/Sint Eustatius/Saba,1,0,0,0
+Djibouti,1,0,0,0
+Iran (Islamic Republic of),1,0,0,0
+Libyan Arab Jamahiriya,1,0,0,0
+Armenia,1,0,0,0
+Bahrain,1,0,0,0
+Samoa,1,0,0,0
+Niger,1,0,0,0
+Guinea-Bissau,1,0,0,0
+
+
+##############################################
+# 30-Day Window
+##############################################
+,Last FULL 30 days (-2),Last FULL 30 days (-2),Last FULL 30 days (-2),Last FULL 30 days (-2)
+,GodTools App (by ID),Non GodTools Decisions,Decisions For Christ (es.com),New Believer (GT)
+,LMI - WIN - New Professing Believers,LMI - WIN - New Professing Believers,Decisions For Christ (es.com),New Believer (GT)
+Countries,1982,8855,18922,1982
+Venezuela,333,41,49,333
+Indonesia,289,259,246,289
+Mexico,249,82,94,249
+Colombia,181,53,70,181
+United States,178,137,248,178
+Argentina,164,3,3,164
+Philippines,105,2,2,105
+Guatemala,60,0,1,60
+Malaysia,48,6,4,48
+Ecuador,26,15,18,26
+Cameroon,25,21,800,25
+India,20,863,553,20
+Singapore,20,6,6,20
+Brazil,19,2,3,19
+Ghana,16,2,112,16
+Canada,15,45,65,15
+South Africa,14,7,7,14
+United Kingdom,12,45,67,12
+Russian Federation,11,1421,1656,11
+Nigeria,10,24,6145,10
+Australia,10,5,10,10
+France,8,47,67,8
+China,8,0,1,8
+Lebanon,7,97,115,7
+New Zealand,7,0,4,7
+United Arab Emirates,7,0,2,7
+Romania,6,627,124,6
+Gambia,6,0,0,6
+Democratic Republic of The Congo,5,26,353,5
+Kenya,5,9,120,5
+South Korea,5,5,5,5
+Egypt,4,485,459,4
+Peru,4,14,16,4
+Kazakhstan,4,6,7,4
+Chile,4,5,10,4
+Panama,4,1,1,4
+Poland,3,511,576,3
+Algeria,3,153,167,3
+Greece,3,28,27,3
+Thailand,3,16,23,3
+Gabon,3,15,15,3
+Benin,3,14,226,3
+Cote D Ivoire,3,13,428,3
+Uganda,3,0,129,3
+Hong Kong SAR of China,3,0,0,3
+Saudi Arabia,3,0,0,3
+Tanzania,3,0,0,3
+Swaziland,3,0,0,3
+Ukraine,2,213,250,2
+Moldova,2,47,14,2
+Japan,2,38,47,2
+Ethiopia,2,16,365,2
+Madagascar,2,16,142,2
+Viet Nam,2,11,15,2
+Solomon Islands,2,1,1,2
+Dominican Republic,2,1,0,2
+Liberia,2,0,97,2
+Guyana,2,0,0,2
+Tajikistan,2,0,0,2
+Turkey,1,1386,1689,1
+Germany,1,149,112,1
+Italy,1,119,21,1
+Jordan,1,73,79,1
+Tunisia,1,55,61,1
+Iraq,1,43,54,1
+Togo,1,23,94,1
+Pakistan,1,21,79,1
+Slovenia,1,14,15,1
+Switzerland,1,10,13,1
+Congo,1,5,6,1
+Belgium,1,5,4,1
+Finland,1,3,5,1
+Central African Republic,1,3,4,1
+Oman,1,3,3,1
+Albania,1,3,1,1
+Guinea,1,2,161,1
+Puerto Rico,1,2,2,1
+Bangladesh,1,2,0,1
+Uzbekistan,1,1,1,1
+Mozambique,1,0,29,1
+Honduras,1,0,2,1
+El Salvador,1,0,0,1
+Sierra Leone,1,0,0,1
+Barbados,1,0,0,1
+Dominica,1,0,0,1
+Iceland,1,0,0,1
+Taiwan region,1,0,0,1
+Cuba,1,0,0,1
+Guam,1,0,0,1
+Fiji,1,0,0,1
+Mauritius,1,0,0,1
+Jamaica,1,0,0,1
+Grenada,1,0,0,1
+Nepal,1,0,0,1
+Hungary,0,670,702,0
+Slovakia (Slovak Republic),0,176,164,0
+Yemen,0,145,162,0
+Belarus,0,100,102,0
+Morocco,0,70,98,0
+Spain,0,51,2,0
+Serbia,0,37,21,0
+Azerbaijan,0,27,29,0
+Austria,0,25,28,0
+Haiti,0,21,22,0
+Netherlands,0,20,24,0
+Czech Republic,0,13,10,0
+Burundi,0,12,122,0
+Sweden,0,11,8,0
+Croatia,0,10,8,0
+Mali,0,9,59,0
+Costa Rica,0,9,8,0
+Senegal,0,8,40,0
+Georgia,0,6,7,0
+Montenegro,0,6,2,0
+Rwanda,0,4,268,0
+Chad,0,4,8,0
+Armenia,0,4,5,0
+Syrian Arab Republic,0,4,5,0
+Ireland,0,4,3,0
+Denmark,0,4,3,0
+Cyprus,0,3,4,0
+Bulgaria,0,3,4,0
+Norway,0,3,3,0
+Israel,0,3,3,0
+Timor-Leste,0,2,1,0
+Burkina Faso,0,1,289,0
+Macedonia,0,1,4,0
+Kuwait,0,1,2,0
+Mongolia,0,1,2,0
+Lithuania,0,1,1,0
+Myanmar,0,1,1,0
+Lao Peoples Democratic Republic,0,1,1,0
+Nicaragua,0,1,1,0
+Europe (Unknown Country),0,1,1,0
+Vanuatu,0,1,1,0
+Portugal,0,1,1,0
+Bosnia and Herzegovina,0,1,1,0
+Cambodia,0,1,1,0
+Trinidad and Tobago,0,1,1,0
+Botswana,0,1,1,0
+Zambia,0,0,179,0
+Niger,0,0,92,0
+Sudan,0,0,8,0
+Guinea-Bissau,0,0,4,0
+Malawi,0,0,3,0
+Kyrgyzstan,0,0,1,0
+Libyan Arab Jamahiriya,0,0,1,0
+Macau SAR of China,0,0,1,0
+Bahrain,0,0,1,0
+South Sudan,0,0,1,0
+Equatorial Guinea,0,0,1,0
+Luxembourg,0,0,1,0
+
+
+##############################################
+# 7-Day Window
+##############################################
+,Last FULL 7 days (-2),Last FULL 7 days (-2),Last FULL 7 days (-2),Last FULL 7 days (-2)
+,GodTools App (by ID),Non GodTools Decisions,Decisions For Christ (es.com),New Believer (GT)
+,LMI - WIN - New Professing Believers,LMI - WIN - New Professing Believers,Decisions For Christ (es.com),New Believer (GT)
+Countries,419,1902,4256,419
+United States,76,32,60,76
+Mexico,62,47,54,62
+Venezuela,48,17,19,48
+Malaysia,38,1,1,38
+Colombia,37,17,24,37
+Argentina,29,1,1,29
+Indonesia,16,43,42,16
+Guatemala,13,0,1,13
+Philippines,12,1,1,12
+Cameroon,8,1,211,8
+France,6,7,14,6
+Brazil,6,0,1,6
+Russian Federation,5,319,377,5
+Singapore,4,2,2,4
+Ghana,4,0,21,4
+New Zealand,4,0,1,4
+India,3,80,56,3
+Ecuador,3,6,5,3
+Kenya,3,5,31,3
+South Africa,3,3,2,3
+Cote D Ivoire,3,0,106,3
+Australia,3,0,1,3
+United Arab Emirates,3,0,0,3
+Nigeria,2,12,1323,2
+Canada,2,11,17,2
+Dominican Republic,2,1,0,2
+China,2,0,1,2
+Gabon,2,0,0,2
+Panama,2,0,0,2
+Egypt,1,161,127,1
+Lebanon,1,25,32,1
+Italy,1,23,4,1
+Thailand,1,7,11,1
+United Kingdom,1,6,12,1
+Ethiopia,1,3,84,1
+Peru,1,3,5,1
+Finland,1,2,2,1
+Albania,1,1,1,1
+Sierra Leone,1,0,0,1
+Dominica,1,0,0,1
+Tanzania,1,0,0,1
+Iceland,1,0,0,1
+Mauritius,1,0,0,1
+Kazakhstan,1,0,0,1
+Saudi Arabia,1,0,0,1
+Uzbekistan,1,0,0,1
+Honduras,1,0,0,1
+Turkey,0,237,302,0
+Hungary,0,163,173,0
+Romania,0,147,25,0
+Poland,0,98,104,0
+Slovakia (Slovak Republic),0,56,35,0
+Yemen,0,46,46,0
+Ukraine,0,44,51,0
+Algeria,0,39,41,0
+Belarus,0,28,25,0
+Germany,0,27,21,0
+Tunisia,0,24,24,0
+Morocco,0,20,27,0
+Jordan,0,16,19,0
+Serbia,0,13,7,0
+Spain,0,13,1,0
+Iraq,0,11,12,0
+Austria,0,10,8,0
+Moldova,0,10,4,0
+Democratic Republic of The Congo,0,7,91,0
+Costa Rica,0,5,4,0
+Togo,0,4,32,0
+Greece,0,4,6,0
+Azerbaijan,0,4,5,0
+Slovenia,0,4,2,0
+South Korea,0,3,3,0
+Madagascar,0,2,31,0
+Japan,0,2,3,0
+Netherlands,0,2,3,0
+Haiti,0,2,2,0
+Israel,0,2,2,0
+Croatia,0,2,2,0
+Syrian Arab Republic,0,2,1,0
+Bangladesh,0,2,0,0
+Mali,0,1,18,0
+Senegal,0,1,14,0
+Viet Nam,0,1,3,0
+Congo,0,1,2,0
+Sweden,0,1,2,0
+Lao Peoples Democratic Republic,0,1,1,0
+Bulgaria,0,1,1,0
+Myanmar,0,1,1,0
+Czech Republic,0,1,1,0
+Trinidad and Tobago,0,1,1,0
+Nicaragua,0,1,1,0
+Belgium,0,1,1,0
+Norway,0,1,1,0
+Georgia,0,1,1,0
+Switzerland,0,1,1,0
+Chile,0,1,1,0
+Burkina Faso,0,0,88,0
+Rwanda,0,0,69,0
+Benin,0,0,61,0
+Burundi,0,0,53,0
+Guinea,0,0,50,0
+Zambia,0,0,42,0
+Liberia,0,0,22,0
+Niger,0,0,21,0
+Uganda,0,0,13,0
+Pakistan,0,0,9,0
+Mozambique,0,0,5,0
+Sudan,0,0,4,0
+Ireland,0,0,1,0
+Cyprus,0,0,1,0
+Macedonia,0,0,1,0
+Macau SAR of China,0,0,1,0
+Armenia,0,0,1,0
+Chad,0,0,1,0
+Mongolia,0,0,1,0
+Equatorial Guinea,0,0,1,0
+
+
